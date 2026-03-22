@@ -1,8 +1,8 @@
 @use 'src/assets/styles/sizes';
 
 .center-layout {
-  margin: 0 auto;
   max-width: sizes.$screen-desktop-l;
+  margin: 0 auto;
   padding: 0 20px;
 
   @media (max-width: sizes.$screen-mobile-m) {

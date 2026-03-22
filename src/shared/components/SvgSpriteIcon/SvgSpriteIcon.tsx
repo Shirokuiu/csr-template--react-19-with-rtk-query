@@ -1,9 +1,6 @@
 import React from 'react';
-
-import {
-  type SvgSpriteIconProps,
-  SvgSpriteIconSize,
-} from 'src/shared/components/SvgSpriteIcon/types';
+import { SvgSpriteIconSize } from 'src/shared/components/SvgSpriteIcon/constants';
+import type { SvgSpriteIconProps } from 'src/shared/components/SvgSpriteIcon/types';
 
 import './svg-sprite-icon.scss';
 

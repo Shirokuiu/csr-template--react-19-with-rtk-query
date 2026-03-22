@@ -2,7 +2,7 @@ import { Helmet, HelmetProvider } from 'react-helmet-async';
 import { Link } from 'react-router-dom';
 import PageLayout from 'src/shared/layouts/PageLayout/PageLayout';
 import SvgSpriteIcon from 'src/shared/components/SvgSpriteIcon/SvgSpriteIcon';
-import { SvgSpriteIconId } from 'src/shared/components/SvgSpriteIcon/types';
+import { SvgSpriteIconId } from 'src/shared/components/SvgSpriteIcon/constants';
 
 function SvgExamplePage() {
   return (
